@@ -1,0 +1,5 @@
+# Sanal ortam klasörü
+venv/
+
+# Çevresel değişken dosyaları
+.env
